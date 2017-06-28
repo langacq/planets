@@ -1,2 +1,2 @@
 # planets
-practice project to mars
+practice project to Mars
